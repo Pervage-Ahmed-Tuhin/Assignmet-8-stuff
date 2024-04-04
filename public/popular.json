@@ -1,0 +1,185 @@
+
+{
+    "books": [
+        {
+            "title": "Stoner",
+            "author": "John Williams",
+            "price": 11.99,
+            "image": "https://i.ibb.co/7ky7PZT/image.png",
+            "reviews": [
+                {
+                    "reviewer": "Alice Adams",
+                    "rating": 4,
+                    "comment": "A hidden gem of literature."
+                },
+                {
+                    "reviewer": "Bob Brown",
+                    "rating": 5,
+                    "comment": "A quiet masterpiece."
+                }
+            ]
+        },
+        {
+            "title": "Gilead",
+            "author": "Marilynne Robinson",
+            "price": 9.25,
+            "image": "https://i.ibb.co/sbkFwT5/image.png",
+            "reviews": [
+                {
+                    "reviewer": "Claire Carter",
+                    "rating": 5,
+                    "comment": "Beautifully written, deeply moving."
+                },
+                {
+                    "reviewer": "David Miller",
+                    "rating": 4,
+                    "comment": "An underrated literary treasure."
+                }
+            ]
+        },
+        {
+            "title": "The Secret History",
+            "author": "Donna Tartt",
+            "price": 14.50,
+            "image": "https://i.ibb.co/XY667Hy/image.png",
+            "reviews": [
+                {
+                    "reviewer": "Emma Evans",
+                    "rating": 3,
+                    "comment": "Dark and compelling."
+                },
+                {
+                    "reviewer": "Frank Ford",
+                    "rating": 5,
+                    "comment": "A mesmerizing journey into the human psyche."
+                }
+            ]
+        },
+        {
+            "title": "Station Eleven",
+            "author": "Emily St. John Mandel",
+            "price": 10.75,
+            "image": "https://i.ibb.co/pQpHbzb/image.png",
+            "reviews": [
+                {
+                    "reviewer": "Grace Green",
+                    "rating": 5,
+                    "comment": "A hauntingly beautiful post-apocalyptic novel."
+                },
+                {
+                    "reviewer": "Henry Hill",
+                    "rating": 4,
+                    "comment": "One of the best books I've ever read."
+                }
+            ]
+        },
+        {
+            "title": "The Way of Kings",
+            "author": "Brandon Sanderson",
+            "price": 13.99,
+            "image": "https://i.ibb.co/NFbKQgd/image.png",
+            "reviews": [
+                {
+                    "reviewer": "Isabella Inman",
+                    "rating": 4,
+                    "comment": "Epic fantasy at its finest."
+                },
+                {
+                    "reviewer": "Jack Jones",
+                    "rating": 5,
+                    "comment": "A masterpiece of world-building."
+                }
+            ]
+        },
+        {
+            "title": "The Power",
+            "author": "Naomi Alderman",
+            "price": 12.25,
+            "image": "https://i.ibb.co/zFt4tVc/image.png",
+            "reviews": [
+                {
+                    "reviewer": "Katie Kelly",
+                    "rating": 5,
+                    "comment": "Provocative and thought-provoking."
+                },
+                {
+                    "reviewer": "Leo Lee",
+                    "rating": 4,
+                    "comment": "A gripping exploration of power dynamics."
+                }
+            ]
+        },
+        {
+            "title": "The Book Thief",
+            "author": "Markus Zusak",
+            "price": 11.50,
+            "image": "https://i.ibb.co/smrSpLp/image.png",
+            "reviews": [
+                {
+                    "reviewer": "Mary Mason",
+                    "rating": 4,
+                    "comment": "A moving story told with exquisite prose."
+                },
+                {
+                    "reviewer": "Nick Nelson",
+                    "rating": 5,
+                    "comment": "Heartbreaking and unforgettable."
+                }
+            ]
+        },
+        {
+            "title": "The Night Circus",
+            "author": "Erin Morgenstern",
+            "price": 10.99,
+            "image": "https://i.ibb.co/Gc4dGFr/image.png",
+            "reviews": [
+                {
+                    "reviewer": "Olivia Owens",
+                    "rating": 5,
+                    "comment": "Magical and enchanting."
+                },
+                {
+                    "reviewer": "Paul Parker",
+                    "rating": 4,
+                    "comment": "A feast for the imagination."
+                }
+            ]
+        },
+        {
+            "title": "The Shadow of the Wind",
+            "author": "Carlos Ruiz Zafón",
+            "price": 8.99,
+            "image": "https://i.ibb.co/x3zFnkF/image.png",
+            "reviews": [
+                {
+                    "reviewer": "Quinn Quinn",
+                    "rating": 5,
+                    "comment": "A literary mystery like no other."
+                },
+                {
+                    "reviewer": "Rachel Reed",
+                    "rating": 4,
+                    "comment": "An atmospheric journey through Barcelona."
+                }
+            ]
+        },
+        {
+            "title": "The Bone Clocks",
+            "author": "David Mitchell",
+            "price": 15.99,
+            "image": "https://i.ibb.co/1fjqxF0/image.png",
+            "reviews": [
+                {
+                    "reviewer": "Samuel Smith",
+                    "rating": 5,
+                    "comment": "Mind-bending and utterly captivating."
+                },
+                {
+                    "reviewer": "Tina Thompson",
+                    "rating": 4,
+                    "comment": "A literary tour de force."
+                }
+            ]
+        }
+    ]
+}

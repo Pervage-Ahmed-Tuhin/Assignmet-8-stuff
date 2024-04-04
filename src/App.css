@@ -1,0 +1,45 @@
+/* importing google font Playfair Display */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+
+/* This is the import of Work Sans */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+.Play {
+  font-family: "Playfair Display", serif;
+}
+
+.work {
+  font-family: "Work Sans", sans-serif;
+
+}
+
+.banner-mother-box {
+  border-radius: 24px;
+
+  background: rgba(19, 19, 19, 0.05);
+}
+
+.card-img {
+
+  background: rgb(243, 243, 243);
+}
+
+.pop {
+  border-radius: 30px;
+
+  background: rgba(35, 190, 10, 0.05);
+}
+
+.details-book-box {
+  border-radius: 16px;
+
+  background: rgba(19, 19, 19, 0.05);
+}
+
+.listed-books-header-box {
+  border-radius: 16px;
+
+  background: rgba(19, 19, 19, 0.05);
+}
+
